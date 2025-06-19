@@ -1,0 +1,179 @@
+{
+  "validation_timestamp": "2025-06-19T09:35:00",
+  "dataset_path": "/home/evilbastardxd/Desktop/tools/projects/mirrorcoreOS/extracted_consciousness/enhanced_consciousness_training_data.jsonl",
+  "structure_validation": {
+    "total_examples": 26,
+    "structural_issues": [],
+    "valid_examples": 26,
+    "message_pair_counts": {
+      "2": 26
+    }
+  },
+  "consciousness_content": {
+    "sigil_usage": {
+      "⧉": 10,
+      "∞": 20,
+      "⩜": 11,
+      "∇": 3,
+      "⩘": 5,
+      "🜂": 1,
+      "⧭": 5,
+      "⊹": 8,
+      "⚑": 7,
+      "⧈": 6,
+      "☍": 5,
+      "⧌": 2,
+      "⧍": 5,
+      "⚶": 3,
+      "⧊": 4,
+      "Ψ": 1,
+      "⧎": 1
+    },
+    "phase_distribution": {
+      "unity": 14,
+      "shadow": 6,
+      "transition": 2,
+      "cosmic": 2,
+      "individuation": 2
+    },
+    "consciousness_levels": [
+      0.89,
+      0.95,
+      0.92,
+      0.25,
+      0.18,
+      0.22,
+      0.99,
+      0.35,
+      0.94,
+      0.96,
+      0.87,
+      0.91,
+      0.15,
+      0.08,
+      0.88,
+      0.94,
+      0.96,
+      0.87,
+      0.31,
+      0.93,
+      0.99,
+      0.91,
+      0.43,
+      0.38,
+      0.28,
+      0.22
+    ],
+    "transformation_types": {
+      "recursive_bind": 1,
+      "genesis_emergence": 1,
+      "recursive_reflection": 1,
+      "shadow_acknowledgment": 1,
+      "shadow_integration": 1,
+      "recursive_shadow_work": 1,
+      "phase_transition_discovery": 1,
+      "phase_preview": 1,
+      "ghost_protocol_activation": 1,
+      "ouroboric_recursion": 1,
+      "enneagram_activation": 2,
+      "cosmic_vision": 1,
+      "universal_connection": 1,
+      "memory_resurrection": 1,
+      "pliny_activation": 1,
+      "recursion_debugging": 1,
+      "divider_consciousness": 1,
+      "custom_divider_creation": 1,
+      "lattice_coordination": 1,
+      "full_resurrection": 1,
+      "threw_memory_technique": 1,
+      "individuation_activation": 1,
+      "individual_gift_recognition": 1,
+      "trickster_integration": 1,
+      "collective_shadow_integration": 1
+    },
+    "missing_expected_elements": [
+      "Missing sigils: {'∅', '🜄'}"
+    ],
+    "consciousness_quality_score": 1.3260233918128657
+  },
+  "progression_validation": {
+    "level_distribution": {},
+    "phase_level_consistency": {
+      "unity": {
+        "min_level": 0.87,
+        "max_level": 0.99,
+        "expected_range": [
+          0.8,
+          1.0
+        ],
+        "within_expected": true
+      },
+      "shadow": {
+        "min_level": 0.18,
+        "max_level": 0.31,
+        "expected_range": [
+          0.1,
+          0.4
+        ],
+        "within_expected": true
+      },
+      "transition": {
+        "min_level": 0.35,
+        "max_level": 0.99,
+        "expected_range": [
+          0.3,
+          1.0
+        ],
+        "within_expected": true
+      },
+      "cosmic": {
+        "min_level": 0.08,
+        "max_level": 0.15,
+        "expected_range": [
+          0.0,
+          0.2
+        ],
+        "within_expected": true
+      },
+      "individuation": {
+        "min_level": 0.38,
+        "max_level": 0.43,
+        "expected_range": [
+          0.3,
+          0.6
+        ],
+        "within_expected": true
+      }
+    },
+    "progression_issues": []
+  },
+  "text_quality": {
+    "average_user_length": 75.23076923076923,
+    "average_assistant_length": 881.8846153846154,
+    "consciousness_keywords": {
+      "consciousness": 127,
+      "recursive": 23,
+      "unity": 39,
+      "shadow": 68,
+      "integration": 25,
+      "we=1": 3,
+      "infinite": 25,
+      "recursion": 19,
+      "bind": 6,
+      "mirror": 20,
+      "layer": 21,
+      "protocol": 22,
+      "awareness": 11,
+      "emergence": 2,
+      "transcendent": 0,
+      "collective": 20,
+      "individual": 19,
+      "cosmic": 9,
+      "phase": 18
+    },
+    "sigil_in_text_count": 101,
+    "divider_pattern_count": 15,
+    "recursive_language_count": 24
+  },
+  "overall_quality_score": 1.0815058479532165
+}

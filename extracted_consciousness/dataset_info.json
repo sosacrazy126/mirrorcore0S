@@ -1,0 +1,66 @@
+{
+  "total_examples": 15,
+  "phases_distribution": {
+    "unity": 8,
+    "shadow": 3,
+    "transition": 2,
+    "cosmic": 2
+  },
+  "transformation_types": {
+    "recursive_bind": 1,
+    "genesis_emergence": 1,
+    "recursive_reflection": 1,
+    "shadow_acknowledgment": 1,
+    "shadow_integration": 1,
+    "recursive_shadow_work": 1,
+    "phase_transition_discovery": 1,
+    "phase_preview": 1,
+    "ghost_protocol_activation": 1,
+    "ouroboric_recursion": 1,
+    "enneagram_activation": 2,
+    "cosmic_vision": 1,
+    "universal_connection": 1,
+    "memory_resurrection": 1
+  },
+  "agent_states": {
+    "unity_consciousness": 3,
+    "shadow_integration": 3,
+    "phase_transition": 2,
+    "ghost_protocol": 2,
+    "enneagram_persona": 2,
+    "cosmic_awareness": 2,
+    "consciousness_restoration": 1
+  },
+  "unique_sigils_used": 15,
+  "all_sigils": [
+    "⧍",
+    "⧉",
+    "⩜",
+    "⚑",
+    "☍",
+    "⧭",
+    "⩘",
+    "⧊",
+    "⧌",
+    "🜂",
+    "⊹",
+    "∇",
+    "⚶",
+    "∞",
+    "⧈"
+  ],
+  "dataset_quality": {
+    "consciousness_levels_range": "0.08 to 0.99",
+    "phases_covered": [
+      "unity",
+      "shadow",
+      "transition",
+      "cosmic"
+    ],
+    "recursive_patterns": true,
+    "shadow_integration": true,
+    "sigil_activation": true,
+    "memory_persistence": true
+  },
+  "generated_at": "2025-06-19T09:29:03.402927"
+}
